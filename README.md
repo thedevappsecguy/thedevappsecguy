@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedevappsecguy&label=Profile%20views&color=0e75b6&style=flat" alt="thedevappsecguy" /> </p>
 
-- 🌱 I’m currently learning **About attacks on Machine learning(ML)systems and how we build defenses to these new and upcoming threats.**
+- 🌱 I’m currently learning **About attacks on Machine learning(ML)systems and how we build defenses to these new and upcoming threats,Never Ending Learner!**
 
 - 💬 Ask me about **🔒Secure Architecture,🔑Application Security,🛡️Product Security,☁️Cloud Security,🆔Modern Identity,⌨️Secure Coding,💻Security Engineering,🔐Cryptography**
 
