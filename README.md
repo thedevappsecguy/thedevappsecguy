@@ -10,8 +10,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/vamsi-krishna-bonam/](https://www.linkedin.com/in/vamsi-krishna-bonam/)
 
 - 📄 Know about my achievements [https://www.credly.com/users/vamsikrishnabonam/](https://www.credly.com/users/vamsikrishnabonam/)
--
-- 📄 When time permits out of my day to day job I started contributing and improving some security related projects Ex.semgrep-rules [https://github.com/returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules)
+
+- 📄 When time permits out of my day to day job, I started contributing and improving security projects like <b>semgrep-rules</b> [https://github.com/returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules)
 
 
 <h3 align="left">Connect with me:</h3>
