@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **🔒Secure Architecture,🔑Application Security,🛡️Product Security,☁️Cloud Security,🆔Modern Identity,⌨️Secure Coding,💻Security Engineering,🔐Cryptography**
+- 💬 Ask me about **🔒Secure Architecture,🔑Application Security,🛡️Product Security,🆔Modern Identity,⌨️Secure Coding,🔐Cryptography**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vamsi-krishna-bonam/](https://www.linkedin.com/in/vamsi-krishna-bonam/)
 
